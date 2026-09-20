@@ -1,0 +1,27 @@
+Customer_ID,Customer_Name,Age,Gender,City,Product,Quantity,Price,Purchase_Date,Payment_Method,Total_Amount
+C001,Aarav,21.0,Male,Prayagraj,Laptop,1.0,45000,2026-09-01,UPI,45000
+C002,Riya,23.0,female,prayagraj,Mobile Phone,2.0,25000,01/09/2026,upi,50000
+C003,Aman,25.0,M,PRAYAGRAJ ,Headphones,1.0,1500,2026/09/02,Credit Card,1500
+C004,Neha,22.0,Female,Lucknow,Laptop,1.0,₹45000,02-09-2026,credit card,45000
+C005,Rahul,28.0,male,lucknow,Mobile phone,1.0,25000,2026-09-03,COD,25000
+C006,Priya,24.0,F,Kanpur,Headphones,2.0,1500,03/09/2026,Cash on Delivery,3000
+C007,Vikas,150.0,Male,kanpur,Laptop,1.0,45000,2026/09/04,UPI,45000
+C008,Anjali,27.0,female,Varanasi,Mobile Phone,1.0,25000,04-09-2026,upi,25000
+C009,Rohit,31.0,Male,varanasi,Laptop,2.0,45000,2026-09-05,Credit Card,90000
+C010,Sneha,26.0,Female,Prayagraj ,Headphones,1.0,1500,05/09/2026,credit card,1500
+C011,Karan,29.0,male,Lucknow,Mobile Phone,1.0,25000,2026/09/06,COD,25000
+C012,Pooja,32.0,Female,KANPUR,Laptop,1.0,45000,06-09-2026,UPI,45000
+C013,Arjun,35.0,M,Kanpur,Headphones,2.0,1500,2026-09-07,upi,3000
+C014,Simran,23.0,female,Varanasi,Mobile phone,1.0,25000,07/09/2026,Credit Card,25000
+C015,Aditya,30.0,Male,Prayagraj,Laptop,1.0,45000,2026/09/08,COD,45000
+C016,Meera,,Female,Lucknow,Mobile Phone,,25000,08-09-2026,,25000
+C017,Nikhil,27.0,male,prayagraj,Headphones,2.0,1500,2026-09-09,credit card,3000
+C018,Kavya,22.0,F,VARANASI,Laptop,1.0,45000,09/09/2026,UPI,45000
+C019,Saurabh,34.0,Male,Lucknow,Mobile Phone,1.0,25000,2026/09/10,Cash on Delivery,25000
+C020,Isha,,female,,Laptop,1.0,45000,10-09-2026,upi,45000
+C021,Varun,25.0,M,Kanpur,Headphones,,1500,2026-09-11,Credit Card,1500
+C022,Naina,28.0,Female,prayagraj ,Mobile Phone,2.0,25000,11/09/2026,COD,50000
+C023,Harsh,33.0,male,Varanasi,Laptop,1.0,45000,2026/09/12,UPI,45000
+C024,Divya,24.0,F,LUCKNOW,Headphones,1.0,1500,12-09-2026,credit card,1500
+C025,Manish,26.0,Male,Prayagraj,Mobile Phone,2.0,25000,2026-09-13,upi,50000
+C003,Aman,25.0,M,PRAYAGRAJ,Headphones,1.0,1500,2026/09/02,Credit Card,1500

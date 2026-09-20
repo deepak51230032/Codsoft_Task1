@@ -1,0 +1,26 @@
+Customer_ID,Customer_Name,Age,Gender,City,Product,Quantity,Price,Purchase_Date,Payment_Method,Total_Amount
+C001,Aarav,21.0,Male,Prayagraj,Laptop,1.0,45000,2026-09-01,UPI,45000.0
+C002,Riya,23.0,female,prayagraj,Mobile Phone,2.0,25000,2026-09-01,upi,50000.0
+C003,Aman,25.0,M,PRAYAGRAJ ,Headphones,1.0,1500,2026-09-02,Credit Card,1500.0
+C004,Neha,22.0,Female,Lucknow,Laptop,1.0,45000,2026-09-02,credit card,45000.0
+C005,Rahul,28.0,male,lucknow,Mobile phone,1.0,25000,2026-09-03,COD,25000.0
+C006,Priya,24.0,F,Kanpur,Headphones,2.0,1500,2026-09-03,Cash on Delivery,3000.0
+C007,Vikas,26.5,Male,kanpur,Laptop,1.0,45000,2026-09-04,UPI,45000.0
+C008,Anjali,27.0,female,Varanasi,Mobile Phone,1.0,25000,2026-09-04,upi,25000.0
+C009,Rohit,31.0,Male,varanasi,Laptop,2.0,45000,2026-09-05,Credit Card,90000.0
+C010,Sneha,26.0,Female,Prayagraj ,Headphones,1.0,1500,2026-09-05,credit card,1500.0
+C011,Karan,29.0,male,Lucknow,Mobile Phone,1.0,25000,2026-09-06,COD,25000.0
+C012,Pooja,32.0,Female,KANPUR,Laptop,1.0,45000,2026-09-06,UPI,45000.0
+C013,Arjun,35.0,M,Kanpur,Headphones,2.0,1500,2026-09-07,upi,3000.0
+C014,Simran,23.0,female,Varanasi,Mobile phone,1.0,25000,2026-09-07,Credit Card,25000.0
+C015,Aditya,30.0,Male,Prayagraj,Laptop,1.0,45000,2026-09-08,COD,45000.0
+C016,Meera,26.5,Female,Lucknow,Mobile Phone,1.0,25000,2026-09-08,Unknown,25000.0
+C017,Nikhil,27.0,male,prayagraj,Headphones,2.0,1500,2026-09-09,credit card,3000.0
+C018,Kavya,22.0,F,VARANASI,Laptop,1.0,45000,2026-09-09,UPI,45000.0
+C019,Saurabh,34.0,Male,Lucknow,Mobile Phone,1.0,25000,2026-09-10,Cash on Delivery,25000.0
+C020,Isha,26.5,female,Unknown,Laptop,1.0,45000,2026-09-10,upi,45000.0
+C021,Varun,25.0,M,Kanpur,Headphones,1.0,1500,2026-09-11,Credit Card,1500.0
+C022,Naina,28.0,Female,prayagraj ,Mobile Phone,2.0,25000,2026-09-11,COD,50000.0
+C023,Harsh,33.0,male,Varanasi,Laptop,1.0,45000,2026-09-12,UPI,45000.0
+C024,Divya,24.0,F,LUCKNOW,Headphones,1.0,1500,2026-09-12,credit card,1500.0
+C025,Manish,26.0,Male,Prayagraj,Mobile Phone,2.0,25000,2026-09-13,upi,50000.0
